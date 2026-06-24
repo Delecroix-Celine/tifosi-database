@@ -167,9 +167,15 @@ INSERT INTO comprend (id_focaccia, id_ingredient, quantite) VALUES
 (7, 16, 1), -- Olive noire
 
 -- 8. Paysanne
-(8, 6, 1),  -- Base crème
-(8, 8, 1),  -- Chèvre
-(8, 9, 1),  -- Cresson
-(8, 21, 1), -- Pomme de terre
-(8, 13, 1), -- Jambon fumé
-(
+(8, 6, 1),   -- Base crème
+(8, 8, 1),   -- Chèvre
+(8, 9, 1),   -- Cresson
+(8, 21, 1),  -- Pomme de terre
+(8, 13, 1),  -- Jambon fumé
+(8, 1, 1),   -- Ail
+(8, 3, 1),   -- Artichaut
+(8, 7, 1),   -- Champignon
+(8, 18, 1),  -- Parmesan
+(8, 20, 1),  -- Poivre
+(8, 16, 1),  -- Olive noire
+(8, 14, 1);  -- Oeuf
